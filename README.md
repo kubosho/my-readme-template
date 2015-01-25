@@ -25,7 +25,7 @@
 ## Install
 
 ```
-- {{Command for installation}}
+{{Command for installation}}
 ```
 
 ## Contribution
