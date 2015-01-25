@@ -30,7 +30,7 @@
 
 ## Contribution
 
-[See CONTRIBUTING.md file](CONTRIBUTING.md)
+[See CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## Licence
 
